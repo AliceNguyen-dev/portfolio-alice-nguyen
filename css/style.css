@@ -1638,3 +1638,13 @@ body.offcanvas {
   grid-template-columns: auto auto auto auto;
   margin: 10px;
 }
+
+.img-certif{
+  display: flex;
+}
+
+.img-certif-anim{
+  width: 400px;
+  height: 280px;
+  margin: 10px;
+}
